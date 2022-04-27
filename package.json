@@ -1,0 +1,27 @@
+{
+  "name": "git-config",
+  "version": "1.0.0",
+  "description": "config git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yidoon/git-config.git"
+  },
+  "keywords": [
+    "git",
+    "config-git"
+  ],
+  "author": "Yidoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yidoon/git-config/issues"
+  },
+  "homepage": "https://github.com/Yidoon/git-config#readme",
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "yargs": "^17.4.1"
+  }
+}
